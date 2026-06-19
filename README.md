@@ -52,7 +52,7 @@ A CUDA-capable GPU is strongly recommended (the notebook caches the dataset to G
 Open the notebook and run the cells top to bottom:
 
 ```bash
-jupyter notebook Cifar10_latest.ipynb
+jupyter notebook Cifar10.ipynb
 ```
 
 Outputs are written to `./cifar10_output/`.
